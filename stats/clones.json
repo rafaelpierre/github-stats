@@ -1,0 +1,50 @@
+[
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-08"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-15"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-15"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 7,
+        "count": 15,
+        "timestamp": "2023-05-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 20,
+        "count": 161,
+        "timestamp": "2023-05-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 11,
+        "count": 36,
+        "timestamp": "2023-05-15"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-01"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-08"
+    }
+]

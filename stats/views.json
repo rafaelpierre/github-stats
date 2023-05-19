@@ -1,0 +1,44 @@
+[
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-05-01"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 9,
+        "timestamp": "2023-05-15"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-05-08"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 3,
+        "count": 24,
+        "timestamp": "2023-05-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 25,
+        "timestamp": "2023-05-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 318,
+        "count": 1157,
+        "timestamp": "2023-05-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 73,
+        "count": 424,
+        "timestamp": "2023-05-15"
+    }
+]
