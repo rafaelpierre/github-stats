@@ -164,4 +164,47 @@
         "count": 240,
         "timestamp": "2023-05-29"
     }
+][
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-05"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 10,
+        "timestamp": "2023-06-05"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 34,
+        "count": 239,
+        "timestamp": "2023-05-29"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 28,
+        "count": 201,
+        "timestamp": "2023-06-05"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-12"
+    }
 ]
