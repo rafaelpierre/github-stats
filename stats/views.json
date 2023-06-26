@@ -268,4 +268,65 @@
         "count": 11,
         "timestamp": "2023-06-12"
     }
+][
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 30,
+        "count": 63,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 17,
+        "count": 55,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-06-12"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-06-19"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 11,
+        "timestamp": "2023-06-12"
+    }
 ]
