@@ -1279,4 +1279,95 @@
         "count": 1,
         "timestamp": "2023-06-26"
     }
+][
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 7,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-03"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    }
 ]
