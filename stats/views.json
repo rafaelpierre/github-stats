@@ -452,4 +452,65 @@
         "count": 10,
         "timestamp": "2023-07-10"
     }
+][
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 6,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-17"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-07-17"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-07-17"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 17,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 14,
+        "count": 56,
+        "timestamp": "2023-07-17"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2023-07-10"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-17"
+    }
 ]
