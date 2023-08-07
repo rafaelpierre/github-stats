@@ -1642,4 +1642,185 @@
         "count": 1,
         "timestamp": "2023-07-24"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 3,
+        "count": 5,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "prompttools",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 12,
+        "count": 20,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "taal",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-24"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    }
 ]
