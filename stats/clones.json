@@ -1823,4 +1823,137 @@
         "count": 1,
         "timestamp": "2023-07-31"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 5,
+        "count": 7,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "prompttools",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 12,
+        "count": 20,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 12,
+        "count": 15,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-07-31"
+    }
 ]
