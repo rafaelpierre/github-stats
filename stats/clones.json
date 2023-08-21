@@ -1956,4 +1956,89 @@
         "count": 1,
         "timestamp": "2023-07-31"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 5,
+        "count": 7,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 12,
+        "count": 15,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-07"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    }
 ]
