@@ -2041,4 +2041,83 @@
         "count": 1,
         "timestamp": "2023-08-14"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-14"
+    }
 ]
