@@ -2120,4 +2120,131 @@
         "count": 1,
         "timestamp": "2023-08-14"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 2,
+        "count": 12,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "spark-performance-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-21"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    }
 ]
