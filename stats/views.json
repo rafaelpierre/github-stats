@@ -663,4 +663,23 @@
         "count": 18,
         "timestamp": "2023-08-28"
     }
+][
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 18,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 58,
+        "count": 167,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-09-04"
+    }
 ]

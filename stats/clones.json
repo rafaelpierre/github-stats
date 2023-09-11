@@ -2247,4 +2247,137 @@
         "count": 1,
         "timestamp": "2023-08-28"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 2,
+        "count": 12,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "spark-performance-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-08-28"
+    }
 ]
