@@ -682,4 +682,35 @@
         "count": 9,
         "timestamp": "2023-09-04"
     }
+][
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 58,
+        "count": 167,
+        "timestamp": "2023-09-04"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 24,
+        "count": 35,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-09-04"
+    }
 ]
