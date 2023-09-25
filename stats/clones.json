@@ -2495,4 +2495,137 @@
         "count": 1,
         "timestamp": "2023-09-11"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 7,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 47,
+        "count": 145,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-18"
+    }
 ]

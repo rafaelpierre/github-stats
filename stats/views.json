@@ -713,4 +713,47 @@
         "count": 9,
         "timestamp": "2023-09-04"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2023-09-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 24,
+        "count": 35,
+        "timestamp": "2023-09-11"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 104,
+        "count": 739,
+        "timestamp": "2023-09-18"
+    }
 ]
