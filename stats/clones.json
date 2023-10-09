@@ -2785,4 +2785,173 @@
         "count": 16,
         "timestamp": "2023-09-25"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "docs",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 15,
+        "count": 23,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "prompttools",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 7,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 7,
+        "count": 10,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 6,
+        "count": 16,
+        "timestamp": "2023-09-25"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    }
 ]
