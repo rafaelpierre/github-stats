@@ -2954,4 +2954,203 @@
         "count": 2,
         "timestamp": "2023-10-02"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "docs",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 7,
+        "count": 10,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    }
 ]

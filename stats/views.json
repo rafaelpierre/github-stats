@@ -920,4 +920,47 @@
         "count": 31,
         "timestamp": "2023-09-25"
     }
+][
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 21,
+        "count": 210,
+        "timestamp": "2023-10-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 10,
+        "timestamp": "2023-10-09"
+    }
 ]
