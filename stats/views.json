@@ -963,4 +963,35 @@
         "count": 10,
         "timestamp": "2023-10-09"
     }
+][
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 10,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 12,
+        "count": 25,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-16"
+    }
 ]

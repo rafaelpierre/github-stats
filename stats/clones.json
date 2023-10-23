@@ -3153,4 +3153,191 @@
         "count": 1,
         "timestamp": "2023-10-09"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "docs",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-09"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 8,
+        "count": 9,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-10-16"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-09"
+    }
 ]
