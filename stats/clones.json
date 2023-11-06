@@ -3491,4 +3491,149 @@
         "count": 2,
         "timestamp": "2023-10-23"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 30,
+        "count": 43,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-23"
+    }
 ]
