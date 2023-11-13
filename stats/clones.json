@@ -3636,4 +3636,95 @@
         "count": 2,
         "timestamp": "2023-10-23"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 30,
+        "count": 43,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 30,
+        "count": 47,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "caRtola",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 13,
+        "count": 35,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 10,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-10-30"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-10-30"
+    }
 ]
