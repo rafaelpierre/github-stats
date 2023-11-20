@@ -3727,4 +3727,89 @@
         "count": 2,
         "timestamp": "2023-10-30"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 30,
+        "count": 47,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 33,
+        "count": 69,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "caRtola",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 13,
+        "count": 35,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 11,
+        "count": 23,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 23,
+        "count": 33,
+        "timestamp": "2023-11-13"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 10,
+        "timestamp": "2023-11-06"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 12,
+        "timestamp": "2023-11-13"
+    }
 ]
