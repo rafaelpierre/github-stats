@@ -1197,4 +1197,71 @@
         "count": 7,
         "timestamp": "2023-11-20"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 11,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 10,
+        "count": 46,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 7,
+        "count": 193,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 9,
+        "count": 50,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 6,
+        "count": 123,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 16,
+        "count": 47,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2023-11-20"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 48,
+        "timestamp": "2023-11-27"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-11-27"
+    }
 ]
