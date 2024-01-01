@@ -4633,4 +4633,161 @@
         "count": 2,
         "timestamp": "2023-12-18"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 10,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 10,
+        "count": 19,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 5,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 8,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2023-12-18"
+    }
 ]

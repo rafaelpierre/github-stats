@@ -1579,4 +1579,143 @@
         "count": 1,
         "timestamp": "2023-12-18"
     }
+][
+    {
+        "repo": "BarcodeScanner",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 19,
+        "count": 66,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 17,
+        "count": 168,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 13,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 29,
+        "count": 172,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 17,
+        "count": 28,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 6,
+        "count": 26,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 10,
+        "count": 27,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 11,
+        "count": 50,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 22,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "spark-performance-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2023-12-18"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2023-12-18"
+    }
 ]
