@@ -1718,4 +1718,77 @@
         "count": 1,
         "timestamp": "2023-12-18"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 17,
+        "count": 168,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 22,
+        "count": 126,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 17,
+        "count": 28,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 19,
+        "count": 43,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 8,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 9,
+        "count": 26,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 28,
+        "count": 89,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 22,
+        "timestamp": "2023-12-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 59,
+        "timestamp": "2024-01-01"
+    }
 ]
