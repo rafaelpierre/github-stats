@@ -4995,4 +4995,323 @@
         "count": 1,
         "timestamp": "2024-01-01"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 11,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 23,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 12,
+        "count": 16,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 10,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "taal",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    }
 ]

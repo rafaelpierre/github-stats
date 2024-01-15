@@ -1791,4 +1791,95 @@
         "count": 59,
         "timestamp": "2024-01-01"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 22,
+        "count": 126,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 22,
+        "count": 67,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 19,
+        "count": 43,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 14,
+        "count": 41,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 8,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 28,
+        "count": 89,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 13,
+        "count": 223,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 59,
+        "timestamp": "2024-01-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 326,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-08"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-08"
+    }
 ]
