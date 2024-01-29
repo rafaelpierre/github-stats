@@ -5627,4 +5627,197 @@
         "count": 1,
         "timestamp": "2024-01-08"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "cryptocurrency-arbitrage",
+        "uniques": 4,
+        "count": 10,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 7,
+        "count": 15,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "openhermes-function-calling",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 11,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-15"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-01-15"
+    }
 ]
