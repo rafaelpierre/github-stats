@@ -2040,4 +2040,59 @@
         "count": 23,
         "timestamp": "2024-01-22"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 43,
+        "count": 229,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 42,
+        "count": 256,
+        "timestamp": "2024-01-29"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-01-29"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 17,
+        "count": 156,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 12,
+        "count": 51,
+        "timestamp": "2024-01-29"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 18,
+        "count": 110,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 16,
+        "count": 74,
+        "timestamp": "2024-01-29"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 23,
+        "timestamp": "2024-01-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-01-29"
+    }
 ]
