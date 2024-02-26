@@ -6213,4 +6213,95 @@
         "count": 2,
         "timestamp": "2024-02-12"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 8,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-19"
+    },
+    {
+        "repo": "candle",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-02-19"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-02-19"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "makeMoE",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-02-19"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-19"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-02-19"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-02-12"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-02-19"
+    }
 ]
