@@ -2471,4 +2471,137 @@
         "count": 1,
         "timestamp": "2024-02-26"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 35,
+        "count": 220,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 27,
+        "count": 182,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "candle",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 12,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 13,
+        "count": 34,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 18,
+        "count": 57,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 22,
+        "count": 251,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 30,
+        "count": 340,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 60,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 5,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 6,
+        "timestamp": "2024-02-26"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 38,
+        "timestamp": "2024-03-04"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-02-26"
+    }
 ]
