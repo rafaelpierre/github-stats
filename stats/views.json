@@ -2780,4 +2780,95 @@
         "count": 1,
         "timestamp": "2024-03-18"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "BarcodeScanner",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 33,
+        "count": 200,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 19,
+        "count": 85,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 22,
+        "count": 64,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 9,
+        "count": 28,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 41,
+        "count": 587,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 38,
+        "count": 436,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 13,
+        "count": 50,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 13,
+        "count": 16,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-25"
+    }
 ]

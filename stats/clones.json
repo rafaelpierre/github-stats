@@ -7706,4 +7706,131 @@
         "count": 1,
         "timestamp": "2024-03-11"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-18"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-25"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-03-25"
+    }
 ]
