@@ -8009,4 +8009,125 @@
         "count": 3,
         "timestamp": "2024-04-08"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "BarcodeScanner",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    }
 ]

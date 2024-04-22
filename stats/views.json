@@ -3035,4 +3035,83 @@
         "count": 293,
         "timestamp": "2024-04-08"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 22,
+        "count": 92,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 21,
+        "count": 89,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 4,
+        "count": 10,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 5,
+        "count": 11,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 13,
+        "count": 61,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 10,
+        "count": 10,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 27,
+        "count": 263,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 41,
+        "count": 278,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 16,
+        "count": 293,
+        "timestamp": "2024-04-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 19,
+        "count": 42,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-04-15"
+    }
 ]
