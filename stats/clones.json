@@ -8130,4 +8130,245 @@
         "count": 1,
         "timestamp": "2024-04-15"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "BarcodeScanner",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "prompttools",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "python-cartolafc",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    }
 ]

@@ -3114,4 +3114,89 @@
         "count": 2,
         "timestamp": "2024-04-15"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 21,
+        "count": 89,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 21,
+        "count": 96,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 5,
+        "count": 11,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 7,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 10,
+        "count": 10,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 16,
+        "count": 30,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 8,
+        "count": 16,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 40,
+        "count": 277,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 44,
+        "count": 333,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 19,
+        "count": 42,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-04-15"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2024-04-22"
+    }
 ]
