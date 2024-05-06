@@ -3199,4 +3199,83 @@
         "count": 5,
         "timestamp": "2024-04-22"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 21,
+        "count": 96,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 16,
+        "count": 43,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 16,
+        "count": 30,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 9,
+        "count": 9,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 8,
+        "count": 16,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 44,
+        "count": 333,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 34,
+        "count": 296,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 72,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-29"
+    }
 ]

@@ -8371,4 +8371,245 @@
         "count": 1,
         "timestamp": "2024-04-22"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "prompttools",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "python-cartolafc",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "taal",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-22"
+    }
 ]
