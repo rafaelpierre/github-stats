@@ -8612,4 +8612,137 @@
         "count": 1,
         "timestamp": "2024-04-22"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 8,
+        "count": 8,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 4,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "taal",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-05-06"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-04-29"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-05-06"
+    }
 ]
