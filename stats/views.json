@@ -3521,4 +3521,107 @@
         "count": 1,
         "timestamp": "2024-05-20"
     }
+][
+    {
+        "repo": "aiohttp",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 7,
+        "count": 14,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 16,
+        "count": 42,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 21,
+        "count": 92,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "langchain",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 14,
+        "count": 23,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 8,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 38,
+        "count": 207,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 40,
+        "count": 208,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 13,
+        "count": 265,
+        "timestamp": "2024-05-20"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 33,
+        "count": 102,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "vscode-remote-try-python",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-05-27"
+    },
+    {
+        "repo": "watch-this",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-05-20"
+    }
 ]
