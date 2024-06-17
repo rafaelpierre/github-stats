@@ -3715,4 +3715,71 @@
         "count": 2,
         "timestamp": "2024-05-27"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 14,
+        "count": 41,
+        "timestamp": "2024-06-03"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 17,
+        "count": 130,
+        "timestamp": "2024-06-10"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-06-03"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-06-10"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-06-03"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 14,
+        "count": 63,
+        "timestamp": "2024-06-03"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 14,
+        "count": 50,
+        "timestamp": "2024-06-10"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 45,
+        "count": 178,
+        "timestamp": "2024-06-03"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 48,
+        "count": 369,
+        "timestamp": "2024-06-10"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 15,
+        "count": 94,
+        "timestamp": "2024-06-03"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 13,
+        "count": 97,
+        "timestamp": "2024-06-10"
+    }
 ]
