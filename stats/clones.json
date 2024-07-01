@@ -9699,4 +9699,179 @@
         "count": 1,
         "timestamp": "2024-06-10"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 5,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "python-cartolafc",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "ThesisTemplate",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-17"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    }
 ]
