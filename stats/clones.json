@@ -9874,4 +9874,155 @@
         "count": 1,
         "timestamp": "2024-06-24"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "makeMoE",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "taal",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-06-24"
+    }
 ]
