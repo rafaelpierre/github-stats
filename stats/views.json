@@ -4025,4 +4025,89 @@
         "count": 13,
         "timestamp": "2024-06-24"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 4,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-07-08"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 15,
+        "count": 50,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 9,
+        "count": 66,
+        "timestamp": "2024-07-08"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 5,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 5,
+        "count": 10,
+        "timestamp": "2024-07-08"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-08"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 10,
+        "count": 10,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 12,
+        "count": 36,
+        "timestamp": "2024-07-08"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 26,
+        "count": 177,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 32,
+        "count": 261,
+        "timestamp": "2024-07-08"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 18,
+        "count": 85,
+        "timestamp": "2024-07-01"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 26,
+        "count": 233,
+        "timestamp": "2024-07-08"
+    }
 ]
