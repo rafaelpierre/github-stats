@@ -10898,4 +10898,209 @@
         "count": 1,
         "timestamp": "2024-07-22"
     }
+][
+    {
+        "repo": "aiohttp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "docker-airflow",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "insuranceqa-dataset",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "python-cartolafc",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "spark-performance-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "ThesisTemplate",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "vscode-remote-try-python",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    },
+    {
+        "repo": "watch-this",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-22"
+    }
 ]
