@@ -11103,4 +11103,65 @@
         "count": 1,
         "timestamp": "2024-07-22"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-07-29"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-07-29"
+    }
 ]
