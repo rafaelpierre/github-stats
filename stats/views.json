@@ -4408,4 +4408,71 @@
         "count": 18,
         "timestamp": "2024-08-05"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 14,
+        "count": 33,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 10,
+        "count": 29,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 9,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 50,
+        "count": 351,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 38,
+        "count": 425,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 12,
+        "count": 18,
+        "timestamp": "2024-08-05"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 12,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-08-12"
+    }
 ]
