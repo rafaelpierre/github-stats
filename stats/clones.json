@@ -11525,4 +11525,377 @@
         "count": 1,
         "timestamp": "2024-08-12"
     }
+][
+    {
+        "repo": "aiohttp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "airflow-helm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "airflow-kube-helm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "BarcodeScanner",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 7,
+        "count": 7,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "candle",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "caRtola",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "cryptocurrency-arbitrage",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "desktop",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "docker-airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "hydeout",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "langchain",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "locust",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "makeMoE",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "openhermes-function-calling",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "play-scrape",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "prompttools",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "python-cartolafc",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "spark-performance-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "ThesisTemplate",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "vscode-remote-try-python",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "watch-this",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    },
+    {
+        "repo": "webrtc-video-conference-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-12"
+    }
 ]
