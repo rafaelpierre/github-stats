@@ -11898,4 +11898,119 @@
         "count": 1,
         "timestamp": "2024-08-12"
     }
+][
+    {
+        "repo": "aiohttp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 9,
+        "count": 9,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "langchain",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 9,
+        "count": 9,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-08-19"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "vscode-remote-try-python",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "watch-this",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    }
 ]
