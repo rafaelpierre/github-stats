@@ -12013,4 +12013,149 @@
         "count": 1,
         "timestamp": "2024-08-26"
     }
+][
+    {
+        "repo": "aiohttp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "langchain",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 9,
+        "count": 9,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 6,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "vscode-remote-try-python",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "watch-this",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-08-26"
+    }
 ]

@@ -4633,4 +4633,95 @@
         "count": 6,
         "timestamp": "2024-08-26"
     }
+][
+    {
+        "repo": "airflow-helm",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 11,
+        "count": 16,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 10,
+        "count": 90,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 13,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 28,
+        "count": 90,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 44,
+        "count": 426,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 13,
+        "count": 51,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 16,
+        "count": 36,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2024-08-26"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 3,
+        "count": 19,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 28,
+        "timestamp": "2024-09-02"
+    }
 ]
