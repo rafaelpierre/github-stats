@@ -4724,4 +4724,101 @@
         "count": 28,
         "timestamp": "2024-09-02"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 10,
+        "count": 90,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 17,
+        "count": 76,
+        "timestamp": "2024-09-09"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 10,
+        "timestamp": "2024-09-09"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 3,
+        "count": 4,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 7,
+        "timestamp": "2024-09-09"
+    },
+    {
+        "repo": "llamafile",
+        "uniques": 2,
+        "count": 13,
+        "timestamp": "2024-09-09"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 44,
+        "count": 426,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 33,
+        "count": 174,
+        "timestamp": "2024-09-09"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 16,
+        "count": 36,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 7,
+        "count": 8,
+        "timestamp": "2024-09-09"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 3,
+        "count": 19,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 28,
+        "timestamp": "2024-09-02"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 3,
+        "count": 45,
+        "timestamp": "2024-09-09"
+    }
 ]
