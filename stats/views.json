@@ -4973,4 +4973,83 @@
         "count": 1,
         "timestamp": "2024-09-23"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 8,
+        "count": 20,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 7,
+        "count": 14,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 11,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 10,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 39,
+        "count": 334,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 44,
+        "count": 111,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 14,
+        "count": 44,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 11,
+        "count": 25,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "python-cartolafc",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-23"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-23"
+    }
 ]
