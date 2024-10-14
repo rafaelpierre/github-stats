@@ -12576,4 +12576,71 @@
         "count": 18,
         "timestamp": "2024-09-30"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-09-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 18,
+        "count": 18,
+        "timestamp": "2024-09-30"
+    }
 ]
