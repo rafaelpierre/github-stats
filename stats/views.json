@@ -5125,4 +5125,77 @@
         "count": 1,
         "timestamp": "2024-10-07"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 7,
+        "count": 23,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 8,
+        "count": 13,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "candle",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 6,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 36,
+        "count": 72,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 52,
+        "count": 137,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 11,
+        "count": 18,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 9,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-10-07"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 5,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "webrtc-video-conference-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-07"
+    }
 ]
