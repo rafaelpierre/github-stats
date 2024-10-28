@@ -12722,4 +12722,113 @@
         "count": 1,
         "timestamp": "2024-10-14"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "phoenix",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-14"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    }
 ]
