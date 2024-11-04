@@ -5265,4 +5265,71 @@
         "count": 5,
         "timestamp": "2024-10-14"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 7,
+        "count": 17,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 7,
+        "count": 9,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 5,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 8,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 40,
+        "count": 111,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 32,
+        "count": 73,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "phoenix",
+        "uniques": 1,
+        "count": 7,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 30,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 17,
+        "timestamp": "2024-10-28"
+    }
 ]

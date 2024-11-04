@@ -12831,4 +12831,131 @@
         "count": 1,
         "timestamp": "2024-10-21"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "llamafile",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "phoenix",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "play-scrape",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-21"
+    }
 ]
