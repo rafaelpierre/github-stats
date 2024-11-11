@@ -12958,4 +12958,131 @@
         "count": 1,
         "timestamp": "2024-10-21"
     }
+][
+    {
+        "repo": "aiohttp",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "azure-search-openai-demo",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "ezapi-tmdb",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "llamafile",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "play-scrape",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "power-law",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-10-28"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "ThesisTemplate",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-04"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-04"
+    }
 ]
