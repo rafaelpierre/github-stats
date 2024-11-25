@@ -5478,4 +5478,101 @@
         "count": 20,
         "timestamp": "2024-11-11"
     }
+][
+    {
+        "repo": "azureml-examples",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 15,
+        "count": 47,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 6,
+        "count": 28,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 4,
+        "count": 11,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 6,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "chainlit",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 6,
+        "count": 27,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 35,
+        "count": 71,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 39,
+        "count": 133,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 20,
+        "timestamp": "2024-11-11"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 15,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    }
 ]
