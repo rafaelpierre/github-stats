@@ -13339,4 +13339,113 @@
         "count": 1,
         "timestamp": "2024-11-18"
     }
+][
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "desktop",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    }
 ]

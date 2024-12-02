@@ -5575,4 +5575,113 @@
         "count": 1,
         "timestamp": "2024-11-18"
     }
+][
+    {
+        "repo": "azureml-examples",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 6,
+        "count": 28,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 11,
+        "count": 27,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 6,
+        "count": 20,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 38,
+        "count": 132,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 37,
+        "count": 158,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "phaser-rpg",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 15,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-18"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 3,
+        "count": 9,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "turboseek",
+        "uniques": 1,
+        "count": 3,
+        "timestamp": "2024-11-25"
+    }
 ]
