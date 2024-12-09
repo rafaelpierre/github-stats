@@ -13448,4 +13448,143 @@
         "count": 1,
         "timestamp": "2024-11-18"
     }
+][
+    {
+        "repo": "azureml-examples",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "cryptocurrency-arbitrage",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "handson-ml",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "hydeout",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "katacoda-scenarios",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "phoenix",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "rafaelpierre.github.io",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "reflex",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "scikit-and-tensorflow-workbooks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-11-25"
+    },
+    {
+        "repo": "scipy2023-deeplearning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "turboseek",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-12-02"
+    },
+    {
+        "repo": "watch-this",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-02"
+    }
 ]
