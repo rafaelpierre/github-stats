@@ -5830,4 +5830,71 @@
         "count": 10,
         "timestamp": "2024-12-09"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 8,
+        "count": 13,
+        "timestamp": "2024-12-09"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 5,
+        "count": 13,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-12-09"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-12-09"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 34,
+        "count": 65,
+        "timestamp": "2024-12-09"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 42,
+        "count": 148,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 21,
+        "timestamp": "2024-12-09"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 16,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 10,
+        "timestamp": "2024-12-09"
+    }
 ]
