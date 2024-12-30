@@ -5897,4 +5897,65 @@
         "count": 10,
         "timestamp": "2024-12-09"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 5,
+        "count": 13,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 6,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 42,
+        "count": 148,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 35,
+        "count": 94,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 16,
+        "timestamp": "2024-12-16"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-16"
+    }
 ]
