@@ -14112,4 +14112,89 @@
         "count": 1,
         "timestamp": "2024-12-23"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "trendFinder",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2024-12-30"
+    }
 ]

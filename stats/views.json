@@ -5958,4 +5958,71 @@
         "count": 1,
         "timestamp": "2024-12-16"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 6,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 26,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "firecrawl",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "going-dutch",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 34,
+        "count": 93,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 46,
+        "count": 251,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-23"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 9,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "trendFinder",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-12-30"
+    }
 ]
