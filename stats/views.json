@@ -6025,4 +6025,71 @@
         "count": 3,
         "timestamp": "2024-12-30"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 26,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 9,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 7,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "firecrawl",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 8,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 46,
+        "count": 251,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 64,
+        "count": 192,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 9,
+        "timestamp": "2024-12-30"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 40,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "trendFinder",
+        "uniques": 2,
+        "count": 3,
+        "timestamp": "2024-12-30"
+    }
 ]
