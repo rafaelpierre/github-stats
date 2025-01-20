@@ -6092,4 +6092,71 @@
         "count": 3,
         "timestamp": "2024-12-30"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 4,
+        "count": 9,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-01-13"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 3,
+        "count": 7,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 8,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 12,
+        "timestamp": "2025-01-13"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 63,
+        "count": 176,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 24,
+        "count": 86,
+        "timestamp": "2025-01-13"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 10,
+        "count": 40,
+        "timestamp": "2025-01-06"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 6,
+        "count": 17,
+        "timestamp": "2025-01-13"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-13"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 9,
+        "timestamp": "2025-01-13"
+    }
 ]
