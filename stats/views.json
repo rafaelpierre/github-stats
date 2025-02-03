@@ -6292,4 +6292,131 @@
         "count": 1,
         "timestamp": "2025-01-20"
     }
+][
+    {
+        "repo": "aisearch-openai-rag-audio",
+        "uniques": 3,
+        "count": 15,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "azureml-examples",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 5,
+        "count": 6,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 6,
+        "count": 25,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "chainlit",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "firecrawl",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 8,
+        "count": 13,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 28,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 51,
+        "count": 111,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 32,
+        "count": 88,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "phoenix",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 30,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 25,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "react-course-v3",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "realtime-api-workshop",
+        "uniques": 3,
+        "count": 5,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "realtime-audio-quickstart",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    },
+    {
+        "repo": "turboseek",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-20"
+    }
 ]
