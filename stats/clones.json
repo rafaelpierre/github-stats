@@ -14909,4 +14909,395 @@
         "count": 1,
         "timestamp": "2025-01-20"
     }
+][
+    {
+        "repo": "airflow",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "airflow-kube-helm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "airflow-kube-helm",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "airflow-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "aisearch-openai-rag-audio",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "azureml-examples",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "candle",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "chainlit",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "chatgpt-fastapi-react",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "covalent",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "cryptocurrency-arbitrage",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "DataSystemsProject",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "dbx",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "docker-airflow",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "Dolly-2.0-Series",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "DSP",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "farfalle",
+        "uniques": 8,
+        "count": 11,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "Fastapi-scrum-master",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "firecrawl",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "gilded-rose-kata",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "github-stats",
+        "uniques": 6,
+        "count": 7,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "instapy-docker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "investopedia-trading-api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "JupyterAMS",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "langchain-openai-rag",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "makeMoE",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "mistral-7b-finetune-nf4",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "modal-fun",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "modal_finetune_sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "phoenix",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "pitchgpt",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 4,
+        "count": 4,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "pyjaws-docs",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "pypoker",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "realtime-api-workshop",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "realtime-audio-quickstart",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "realtime-audio-quickstart",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "rust-bank",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "rust-decks",
+        "uniques": 5,
+        "count": 5,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "spark-performance-tuning",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "tailadmin-free-tailwind-dashboard-template",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "talkr",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "TechForGamesUvA",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "text2sql",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "ThesisTemplate",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "tmdbv3api",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "trendFinder",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "turboseek",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "urllib3",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "UVA_AML18",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "webrtc-video-conference-tutorial",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    }
 ]

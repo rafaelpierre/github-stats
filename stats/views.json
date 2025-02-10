@@ -6419,4 +6419,71 @@
         "count": 1,
         "timestamp": "2025-01-20"
     }
+][
+    {
+        "repo": "bullet",
+        "uniques": 6,
+        "count": 25,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "bullet",
+        "uniques": 3,
+        "count": 3,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "cartolator",
+        "uniques": 1,
+        "count": 1,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "farfalle",
+        "uniques": 1,
+        "count": 2,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "langflow",
+        "uniques": 2,
+        "count": 2,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 28,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "larry-ai",
+        "uniques": 5,
+        "count": 12,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 32,
+        "count": 88,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "moviegpt",
+        "uniques": 43,
+        "count": 73,
+        "timestamp": "2025-02-03"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 8,
+        "count": 25,
+        "timestamp": "2025-01-27"
+    },
+    {
+        "repo": "pyjaws",
+        "uniques": 9,
+        "count": 75,
+        "timestamp": "2025-02-03"
+    }
 ]
